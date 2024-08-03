@@ -1,0 +1,12 @@
+.name {
+    margin-top: 10px;
+    font-size: 22px;
+}
+
+.isOnline {
+    color: #377e22;
+}
+
+.isOffline {
+    color: #ea3323;
+}
